@@ -230,18 +230,18 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@ALIZPJ 
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+
+
+
+
+
+
+
 
 Our channels
-@teleseedch [English]
+@teleZPJ [English]
 ]],
     help_text = [[
 Commands list :
@@ -267,7 +267,7 @@ Promote someone
 !demote [username]
 Demote someone
 
-!kickme
+!KM
 Will kick user
 
 !about
@@ -276,7 +276,7 @@ Group description
 !setphoto
 Set and locks group photo
 
-!setname [name]
+!sn [name]
 Set group name
 
 !rules
@@ -287,10 +287,10 @@ return group id or user id
 
 !help
 
-!lock [member|name|bots]
+!l [m|n|bot]
 Locks [member|name|bots] 
 
-!unlock [member|name|photo|bots]
+!unlock [m|n|ph|bot]
 Unlocks [member|name|photo|bots]
 
 !set rules <text>
@@ -302,7 +302,7 @@ Set <text> as about
 !settings
 Returns group settings
 
-!newlink
+!nlink
 create/revoke your group link
 
 !link
@@ -311,10 +311,10 @@ returns group link
 !owner
 returns group owner id
 
-!setowner [id]
+!sowner [id]
 Will set id as owner
 
-!setflood [value]
+!sflood [value]
 Set [value] as flood sensitivity
 
 !stats
@@ -336,7 +336,7 @@ returns user id
 !log
 will return group logs
 
-!banlist
+!bl
 will return group ban list
 
 **U can use both "/" and "!" 
@@ -348,6 +348,8 @@ will return group ban list
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
+
+@ALIZPJ
 
 ]]
 
